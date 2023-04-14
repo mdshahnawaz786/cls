@@ -7,6 +7,7 @@ import Image from './Image';
 
 function App() {
   const [inp, setInp] = useState(false)
+  // console.log(inp);
   const [img, setImg] = useState(false)
   return (
     <div className="App">
